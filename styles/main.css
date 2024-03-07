@@ -35,16 +35,15 @@ h1 {
 }
 
 h2 {
-    border-bottom: 0.1em solid #2d5f5d;
-    padding: 0.5em;
+    border-bottom: 0.1em solid #66D7D1;
+    padding: 0.25em;
     margin: 1.6em 0;
-
-    font-style: italic;
-    color: purple;
 }
 
 section p {
     text-indent: 2.8em;
+    line-height: 1.6em;
+    margin-bottom: 2em;
 }
 
 .project {
